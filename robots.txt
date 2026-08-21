@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iafuture10.github.io/CODIGOERROR/sitemap-index.xml
